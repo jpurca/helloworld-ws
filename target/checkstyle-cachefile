@@ -1,0 +1,8 @@
+#Wed Jul 10 20:02:44 COT 2019
+configuration*?=6707311C79144D469727FE135EE1FC55E1377CB6
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+C\:\\wildfly-17.0.0.Final\\quickstart-17.0.0.Final\\helloworld-ws\\src\\test\\java\\org\\jboss\\as\\quickstarts\\wshelloworld\\ClientArqIT.java=1562804965358
+C\:\\wildfly-17.0.0.Final\\quickstart-17.0.0.Final\\helloworld-ws\\src\\main\\java\\org\\jboss\\as\\quickstarts\\wshelloworld\\HelloWorldServiceImpl.java=1562804965106
+C\:\\wildfly-17.0.0.Final\\quickstart-17.0.0.Final\\helloworld-ws\\src\\test\\java\\org\\jboss\\as\\quickstarts\\wshelloworld\\Client.java=1562804965322
+C\:\\wildfly-17.0.0.Final\\quickstart-17.0.0.Final\\helloworld-ws\\src\\main\\java\\org\\jboss\\as\\quickstarts\\wshelloworld\\HelloWorldService.java=1562804965059
+C\:\\wildfly-17.0.0.Final\\quickstart-17.0.0.Final\\helloworld-ws\\src\\test\\java\\org\\jboss\\as\\quickstarts\\wshelloworld\\ClientTest.java=1562804965403
